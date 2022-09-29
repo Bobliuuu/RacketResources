@@ -2,10 +2,10 @@
 
 ## Ways To Contribute
 
-- If an algorithm doesn't exist in the repository, you can implement it in Racket open a pull request
+- If an algorithm doesn't exist in the repository, you can implement it in Racket and open a pull request
 - If there is a non-duplicate project you would like to add, you can open a pull request
 - If there is a project you would like to modify, you can open a pull request
-- If there is an algorithm you would like to see added, you can add that as an issue
+- If there is an algorithm you would like to see added, you can add that as an issue to the repository
 
 ## Ways NOT To Contribute
 - Add code files not implemented in Racket
@@ -19,6 +19,7 @@
 
 ## Contribution Guidelines
 
-1. All files must be implemented as functions: `(define ...)`
-2. (Optional) Files can have a header specifying the purpose of the program
-3. (Optional) Files can have examples for how they should be run
+1. All files must racket files (have a `.rkt` ending)
+2. All programs must be implemented as functions: `(define ...)`
+3. (Optional) Files can have a header specifying the purpose of the program
+4. (Optional) Files can have examples for how they should be run
