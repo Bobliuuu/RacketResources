@@ -9,7 +9,7 @@
 
 ## Ways NOT To Contribute
 - Add code files not implemented in Racket
-- Add code files that are spammy or invalid to the repository guidelines
+- Add code files that are spammy or invalid to the [repository guidelines](./CODE_OF_CONDUCT.md)
 
 ## How To Contribute
 
