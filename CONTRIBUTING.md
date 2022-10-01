@@ -14,8 +14,9 @@
 ## How To Contribute
 
 1. Create a pull request with the files you'd like to add to the repository
-2. Create a pull request modifying some file in the repository
-3. Add an issue for a file you'd like to add or would like to see added
+2. Make sure to create a folder if the topic is not listed in the repository
+3. Create a pull request modifying some file in the repository
+4. Add an issue for a file you'd like to add or would like to see added
 
 ## Contribution Guidelines
 
