@@ -10,4 +10,4 @@ Racket is an extremely useful functional programming language, often taught in u
 
 ## Contributing
 
-Feel free to contribute any Racket program, as long as it follows the contributing guidelines! 
+Feel free to contribute any Racket program, as long as it follows the [contributing guidelines](./CONTRIBUTING.md)! 
